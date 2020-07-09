@@ -1,11 +1,11 @@
 /* Main Body Section Start */
 .container {
-    padding-bottom: 60px;
+    padding-bottom: 20px;
 }
 /* Main Body Section End */
 /* Header Section Start */
 .bg-color-custom {
-    background-color: #F0FFF0 !important;
+    background-color: #F0FFF0;
 }
 .logo-custom {
     width: 198px;
@@ -103,7 +103,7 @@
 }
 .courses-custom h3, .testimonial-section h3 {
     text-align: center;
-    margin: 60px;
+    margin: 50px;
     font-weight: 700;
 }
 .card-button {
@@ -138,11 +138,38 @@
     background-color:#fff;
     border-top: none;
 }
-}
 /* Courses Section End */
-/* Testimonial Section Start */
-.testimonial-style p {
-    
+/* Footer Section Star */
+.footer-bg {
+    background-color: #282531;
+    color: #fff;
 }
-/* Testimonial Section End */
-
+.footer-top-custom {
+    padding-top: 60px;
+    padding-bottom: 150px;
+}
+.footer-top-custom p {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 30px;
+}
+.footer-top-custom ul {
+    list-style: none;
+    text-decoration: none;    
+}
+.footer-top-custom li {
+    margin-bottom: 10px;
+}
+.footer-top-custom a {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 30px;
+}
+.footer-a-bold {
+    font-weight: 900;
+}
+.footer-bottom p {
+    text-align: center;
+}
+/* Footer Section End */

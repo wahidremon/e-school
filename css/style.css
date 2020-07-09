@@ -1,6 +1,6 @@
 /* Main Body Section Start */
 .container {
-    padding: 15px;
+    padding-bottom: 60px;
 }
 /* Main Body Section End */
 /* Header Section Start */
@@ -73,9 +73,9 @@
     background-color: #fff;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
-.category-custom img {
-    width: 68px;
-    height: 76px;
+.category-custom img, .testimonial-custom img {
+    width: 30%;
+    height: 30%;
 }
 .category-custom h1 {
     font-family: Poppins;
@@ -84,7 +84,7 @@
     color: #413960;    
     margin: 15px 0px 0px 0px;
 }
-.category-custom p {
+.category-custom p, .testimonial-custom p  {
     font-family: Poppins;
     font-size: 16px;
     line-height: 30px;
@@ -101,9 +101,10 @@
     border: none;
     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
 }
-.courses-custom h3{
+.courses-custom h3, .testimonial-section h3 {
     text-align: center;
     margin: 60px;
+    font-weight: 700;
 }
 .card-button {
     background: #21B573;
@@ -139,4 +140,9 @@
 }
 }
 /* Courses Section End */
+/* Testimonial Section Start */
+.testimonial-style p {
+    
+}
+/* Testimonial Section End */
 

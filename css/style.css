@@ -1,3 +1,8 @@
+/* Main Body Section Start */
+.container  {
+    padding: 15px;
+}
+/* Main Body Section End */
 /* Header Section Start */
 .bg-color-custom {
     background-color: #F0FFF0 !important;
@@ -13,7 +18,6 @@
 .navbar-light .navbar-nav .nav-link {
     font-family: Poppins;
     font-size: 16px;
-    line-height: 24px;
     color: #000000;
 }
 .nav-link-custom:hover {
@@ -27,3 +31,34 @@
     border-radius: 33px;
 }
 /* Header Section End  */
+/* Banner Section Start */
+.row {
+    margin-top: 150px;
+}
+.carousel-red-p {
+    color: #FD511A;
+    line-height: 24px;
+}
+.carousel-style-custom p {
+    font-size: 16px;
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+    padding: 20px 0px;
+}
+.carousel-style-custom h1 {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.carousel-green-h1 {
+    color: #21B573;
+}
+.carousel-button {
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+    color: #fff;
+    margin-top: 10px;
+}
+/* Banner Section End */

@@ -1,5 +1,5 @@
 /* Main Body Section Start */
-.container  {
+.container {
     padding: 15px;
 }
 /* Main Body Section End */
@@ -62,3 +62,32 @@
     margin-top: 10px;
 }
 /* Banner Section End */
+/* Category Section Start */
+.category-custom {
+    padding: 10px 30px;
+    text-align: center;
+    background-color: #F8FFFB;
+    border-radius: 5px;
+}
+.category-custom:hover {
+    background-color: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.category-custom img {
+    width: 68px;
+    height: 76px;
+}
+.category-custom h1 {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 24px;
+    color: #413960;    
+    margin: 15px 0px 0px 0px;
+}
+.category-custom p {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 30px;
+    color: #585859;
+}
+/* Category Section End */

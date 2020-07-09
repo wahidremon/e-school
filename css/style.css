@@ -91,3 +91,52 @@
     color: #585859;
 }
 /* Category Section End */
+/* Courses Section Star */
+.courses-custom {
+    border-radius: 18px;
+}
+.card-custom {
+    padding: 15px 10px;
+    border-radius: 18px;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.courses-custom h3{
+    text-align: center;
+    margin: 60px;
+}
+.card-button {
+    background: #21B573;
+    border-radius: 25px;
+    padding: 7px 30px;
+    color: #fff;
+    margin-top: 10px;
+}
+.card-footer-left img, .card-footer-right img {
+    width: 24px;
+    height: 24px;
+    padding-right: 5px;
+}
+.card-footer-left p, .card-footer-right p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    padding-top: 5px;
+}
+.courses-custom p {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 18px;
+    color: #585859;
+}
+.card-footer-custom {
+    padding: 10px 5px;
+    background-color:#fff;
+    border-top: none;
+}
+}
+/* Courses Section End */
+

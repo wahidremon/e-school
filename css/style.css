@@ -1,0 +1,29 @@
+/* Header Section Start */
+.bg-color-custom {
+    background-color: #F0FFF0 !important;
+}
+.logo-custom {
+    width: 198px;
+    cursor: pointer;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.0rem;
+    padding-left: 2.0rem;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.nav-link-custom:hover {
+    color: #fff !important;
+    background: #21B573;
+    border-radius: 33px;
+} 
+.active>.nav-link-custom {
+    color: #fff !important;
+    background: #21B573;
+    border-radius: 33px;
+}
+/* Header Section End  */
